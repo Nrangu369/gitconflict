@@ -1,2 +1,1 @@
-# gitconflict
-for git conflict
+Hello developer1
